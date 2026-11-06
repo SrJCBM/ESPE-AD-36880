@@ -1,7 +1,5 @@
 # E1 — Ejecución secuencial
 
-Repositorio público: [ESPE-AD-36880 — E1](https://github.com/SrJCBM/ESPE-AD-36880/tree/main/1P/E1).
-
 ## Ejemplo de la vida diaria
 
 Una cafetería prepara un desayuno: primero café (3 segundos), después pan tostado (2 segundos) y finalmente jugo (1 segundo). Cada actividad termina antes de iniciar la siguiente.

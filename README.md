@@ -2,8 +2,6 @@
 
 Tres ejemplos en Python sobre ejecución de tareas en una cafetería. Cada ejercicio es independiente y utiliza un solo contenedor Docker.
 
-Repositorio público: [SrJCBM/ESPE-AD-36880](https://github.com/SrJCBM/ESPE-AD-36880).
-
 | Carpeta | Tema | Ejemplo | Duración aproximada |
 | --- | --- | --- | --- |
 | [E1](1P/E1/README.md) | Ejecución secuencial | Preparar café, tostar pan y servir jugo, en orden | 6 segundos |

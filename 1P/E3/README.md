@@ -1,7 +1,5 @@
 # E3 — Hilos y condiciones de carrera
 
-Repositorio público: [ESPE-AD-36880 — E3](https://github.com/SrJCBM/ESPE-AD-36880/tree/main/1P/E3).
-
 ## Ejemplo de la vida diaria
 
 Dos cajeros de una cafetería registran una venta de $10 cada uno. Comparten una caja cuyo saldo inicial es $0. Al finalizar ambos cobros, el saldo correcto es $20.

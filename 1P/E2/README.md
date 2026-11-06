@@ -1,7 +1,5 @@
 # E2 — Ejecución con concurrencia
 
-Repositorio público: [ESPE-AD-36880 — E2](https://github.com/SrJCBM/ESPE-AD-36880/tree/main/1P/E2).
-
 ## Ejemplo de la vida diaria
 
 Una cafetería prepara café (3 segundos), tuesta pan (2 segundos) y sirve jugo (1 segundo). Mientras una actividad espera, las otras pueden avanzar; por ejemplo, la cafetera trabaja mientras se prepara el resto del desayuno.
