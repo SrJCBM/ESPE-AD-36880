@@ -1,0 +1,8 @@
+name: distribuidas-e2
+
+services:
+  demo:
+    build: .
+    image: distribuidas-e2:local
+    init: true
+    restart: "no"
